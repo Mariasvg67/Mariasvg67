@@ -6,7 +6,7 @@
   <title>Meu Portfólio</title>
 </head>
 <body>
-  <h1>Olá, eu sou Fulano!</h1>
+  <h1>Oie, meu nome é Maria Eduarda!</h1>
   <p>Desenvolvedor Front-End</p>
   <h2>Projetos</h2>
   <ul>
